@@ -7,4 +7,9 @@
     <string name="food_joke_fragment">Joke</string>
     <string name="restaurant_image">Restaurant Image</string>
     <string name="no_internet_error">No Internet Connection</string>
+    <string name="_100">100</string>
+    <string name="food_image">Food image</string>
+    <string name="likes_count">Amount of likes</string>
+    <string name="time">Time Required to complete</string>
+    <string name="vegan">Vegan Or not</string>
 </resources>
